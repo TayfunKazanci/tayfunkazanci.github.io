@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "tayfunkazanci.github.io",
+  "scripts": {
+  },
+  "stack": "container"
+}
